@@ -13,4 +13,5 @@ public class PaymentCard extends Payment{
 	private LocalDate validateCard;
 	private Integer cvvCard;
 	
+	
 }
